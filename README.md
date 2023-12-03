@@ -42,7 +42,7 @@
     </p>
      <p width="50%" valign="right" align="right" >
             <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?                font=Fira+Code&weight=500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Language+and+Tools;Dil+ve+Ara%C3%A7lar" alt="Typing SVG" /></a>
-    <ul>
+    <ul valign="right" align="right">
         <li>💻 I'm skilled in: <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong></li>
         <li>🌐 Learning and using frameworks: <strong>Bootstrap</strong>, <strong>Tailwind CSS</strong></li>
         <li>🖥️ Coding in Javascript and continuously learning more</li>
