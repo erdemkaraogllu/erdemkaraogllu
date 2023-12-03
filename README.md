@@ -36,7 +36,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">     
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: 200px; border-radius: 10px;">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
     </td>
   </tr>
 </table>
