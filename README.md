@@ -6,17 +6,17 @@
 
 <p align="center">
   <!-- E-Mail Bağlantısı -->
-  <a href="erdemkaraogllu@gmail.com?subject=[GitHub]%20Contact">
+  <a target="_blank" href="erdemkaraogllu@gmail.com?subject=[GitHub]%20Contact">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email Badge" />
   </a>
   
   <!-- Instagram Bağlantısı -->
-  <a href="https://instagram.com/erdemkaraogllu">
+  <a target="_blank" href="https://instagram.com/erdemkaraogllu">
     <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 
   <!-- LinkedIn Bağlantısı -->
-  <a href="https://www.linkedin.com/in/erdem-karao%C4%9Flu-b6843124a/">
+  <a target="_blank" href="https://www.linkedin.com/in/erdem-karao%C4%9Flu-b6843124a/">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 
