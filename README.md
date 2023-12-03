@@ -30,12 +30,16 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Açıklama veya Açıklama Yok" style="max-width: 100%; height: 200px ">
   </a>
 </p>
-
 </p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes World of Mayhem GIF" style="max-width: 100%;">
+    <p align="left">
+        Hakkımda Yazısı Gelicek
+    </p>
+    <p align="left">
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes World of Mayhem GIF" style="max-width: 100%;">
+    </p>
 </p>
-
 
 
 
