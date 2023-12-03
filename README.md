@@ -1,8 +1,10 @@
 ![Banner](https://media.licdn.com/dms/image/D4D16AQH_G0YzKFS6eg/profile-displaybackgroundimage-shrink_350_1400/0/1692037192822?e=1707350400&v=beta&t=WWdXo7JwQEjXLFKEnWh2N_zt96bnU4_l0mSoVS5Cgcg)
+
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=718355&random=false&width=435&lines=Hello%2C+I+am+Erdem+Karao%C4%9Flu.;Merhaba%2C+Ben+Erdem+Karao%C4%9Flu." alt="Typing SVG" />
     </a>
+</p>
 
 <p align="center">
   <!-- E-Mail Bağlantısı -->
@@ -21,32 +23,35 @@
   </a>
 </p>
 
-<p align="center">
-<p align="left">
-   <ul>    
-<li>💻 I use daily: <strong>.js</strong>, <strong>.java</strong>, <strong>.py</strong>,  <strong>.sql</strong></li>
-<li>📖 I am currently reading <strong>Designing Data Intensive Application</strong> by Martin Kleppmann</li>
-<li>💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley &amp; startups</li>
-<li>👯 We can connect to play some games of Chess ♟</li>
-<li>⚡ Fun fact: Je connais un peu le français</li>
-<li>🧑‍💻 Tech I work on :</li>
-</ul>
-</p>
-<p align="right">
-  <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Açıklama veya Açıklama Yok" style="max-width: 100%; height: 200px; border-radius: 25px ">
-  </a>
-</p>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>    
+        <li>💻 I use daily: <strong>.js</strong>, <strong>.java</strong>, <strong>.py</strong>,  <strong>.sql</strong></li>
+        <li>📖 I am currently reading <strong>Designing Data Intensive Application</strong> by Martin Kleppmann</li>
+        <li>💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley &amp; startups</li>
+        <li>👯 We can connect to play some games of Chess ♟</li>
+        <li>⚡ Fun fact: Je connais un peu le français</li>
+        <li>🧑‍💻 Tech I work on :</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" target="_blank" rel="noopener noreferrer">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: 200px; border-radius: 10px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-    <p align="right">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes World of Mayhem GIF" style="max-width: 100%; border-radius: 10px;">
+    </td>
+    <td width="50%" valign="top">
+      <p align="right">
         Hakkımda Yazısı Gelicek
-    </p>
-    <p align="left">
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes World of Mayhem GIF" style="max-width: 100%;">
-    </p>
-</p>
-
-
-
+      </p>
+    </td>
+  </tr>
+</table>
