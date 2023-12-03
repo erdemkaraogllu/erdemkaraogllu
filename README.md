@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<table>
+<table style="border:none" >
   <tr>
     <td width="50%" valign="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=About+me;Hakk%C4%B1mda" alt="Typing SVG" /></a>
