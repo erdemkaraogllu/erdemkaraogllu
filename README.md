@@ -26,7 +26,6 @@
 <table>
   <tr>
     <td width="50%" valign="center">
-       
       <ul>    
         <li>💻 I use daily: <strong>.js</strong>, <strong>.java</strong>, <strong>.py</strong>,  <strong>.sql</strong></li>
         <li>📖 I am currently reading <strong>Designing Data Intensive Application</strong> by Martin Kleppmann</li>
