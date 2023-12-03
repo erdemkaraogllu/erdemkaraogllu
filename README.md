@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes World of Mayhem GIF" style="max-width: 100%; border-radius: 10px;">
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes World of Mayhem GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
     </td>
     <td width="50%" valign="top">
       <p align="right">
