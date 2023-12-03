@@ -37,10 +37,10 @@
 
 
   <p>
-    <p width="50%" valign="left" align="center">
+    <p width="50%" valign="center" align="left">
       <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes World of Mayhem GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
     </p>
-    <p width="50%" valign="right">
+    <p width="50%" valign="right" align="right" >
             <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?                font=Fira+Code&weight=500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Language+and+Tools;Dil+ve+Ara%C3%A7lar" alt="Typing SVG" /></a>
     <ul>
         <li>💻 I'm skilled in: <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong></li>
