@@ -26,11 +26,9 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Açıklama veya Açıklama Yok" style="max-width: 100%; height: 200px ">
   </a>
 </p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Açıklama veya Açıklama Yok" style="max-width: 100%;">
-</p>
-<p align="center">
-  <img src="[https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" alt="Açıklama veya Açıklama Yok" style="max-width: 100%;">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes World of Mayhem GIF" style="max-width: 100%;">
 </p>
 
 
