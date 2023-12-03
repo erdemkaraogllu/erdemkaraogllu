@@ -23,7 +23,14 @@
 
 <p align="center">
 <p align="left">
-    Hakkımda Yazısı Gelicek
+   <ul dir="auto">    
+<li>💻 I use daily: <strong>.js</strong>, <strong>.java</strong>, <strong>.py</strong>,  <strong>.sql</strong></li>
+<li>📖 I am currently reading <strong>Designing Data Intensive Application</strong> by Martin Kleppmann</li>
+<li>💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley &amp; startups</li>
+<li>👯 We can connect to play some games of Chess ♟</li>
+<li>⚡ Fun fact: Je connais un peu le français</li>
+<li>🧑‍💻 Tech I work on :</li>
+</ul>
 </p>
 <p align="right">
   <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" target="_blank" rel="noopener noreferrer">
