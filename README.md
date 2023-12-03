@@ -37,9 +37,33 @@
 
 ![Banner](https://media.licdn.com/dms/image/D4D16AQH_G0YzKFS6eg/profile-displaybackgroundimage-shrink_350_1400/0/1692037192822?e=1707350400&v=beta&t=WWdXo7JwQEjXLFKEnWh2N_zt96bnU4_l0mSoVS5Cgcg)
 
-<table> <tr> <td width="50%" valign="center" align="center"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes World of Mayhem GIF" style="max-width: 100%; height: auto; border-radius: 10px;"> </td> <td width="50%" valign="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Language+and+Tools;Dil+ve+Ara%C3%A7lar" alt="Typing SVG" /></a> <ul> <li>💻 I'm skilled in: <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong></li> <li>🌐 Learning and using frameworks: <strong>Bootstrap</strong>, <strong>Tailwind CSS</strong></li> <li>🖥️ Coding in Javascript and continuously learning more</li> <li>🔧 Capable of developing simple desktop applications with <strong>C#</strong></li> <li>🗄️ Working with databases: <strong>MySQL</strong>, <strong>PostgreSQL</strong></li> <li>🌍 On the back end, I use <strong>PHP</strong></li> <li>⚛️ Actively learning <strong>React</strong></li> </ul> </td> </tr> </table>
+<table> 
+    <tr> 
+        <td width="50%" valign="center" align="center"> 
+            <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes World of Mayhem GIF" style="max-width: 100%; height: auto; border-radius: 10px;"> 
+        </td> 
+        <td width="50%" valign="center"> 
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=My+Skills;Yeteneklerim" alt="Typing SVG" /></a>
+            <ul> 
+                <li>💻 I'm skilled in: <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong></li> 
+                <li>🌐 Learning and using frameworks: <strong>Bootstrap</strong>, <strong>Tailwind CSS</strong></li> 
+                <li>🖥️ Coding in Javascript and continuously learning more</li> 
+                <li>🔧 Capable of developing simple desktop applications with <strong>C#</strong></li> 
+                <li>🗄️ Working with databases: <strong>MySQL</strong>, <strong>PostgreSQL</strong></li> 
+                <li>🌍 On the back end, I use <strong>PHP</strong></li> 
+                <li>⚛️ Actively learning <strong>React</strong></li> 
+            </ul> 
+        </td> 
+    </tr> 
+</table>
 
-<p align="center">
+<table>
+    <tr>
+        <td>
+<a href="https://git.io/typing-svg">
+                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Language+and+Tools;Dil+ve+Ara%C3%A7lar" alt="Typing SVG" /></a> 
+</td>
+        <td>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -70,6 +94,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-</p>
-
+            </td>
+</tr>
+</table>
 
