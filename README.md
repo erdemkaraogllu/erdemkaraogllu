@@ -23,6 +23,8 @@
   </a>
 </p>
 
+![Banner](https://media.licdn.com/dms/image/D4D16AQH_G0YzKFS6eg/profile-displaybackgroundimage-shrink_350_1400/0/1692037192822?e=1707350400&v=beta&t=WWdXo7JwQEjXLFKEnWh2N_zt96bnU4_l0mSoVS5Cgcg)
+
 <table style="width:100%; border-collapse: collapse;">
   <tr style="border-top: 2px solid #ccc; border-bottom: 2px solid #ccc;" width="50%" valign="center">
     <td width="50%" valign="center">
