@@ -15,9 +15,8 @@
     <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 
-
   <!-- LinkedIn Bağlantısı -->
-  <a href="[https://linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)">
+  <a href="https://www.linkedin.com/in/erdem-karao%C4%9Flu-b6843124a/">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 
