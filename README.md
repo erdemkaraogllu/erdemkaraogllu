@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- E-Mail Bağlantısı -->
-  <a href="erdemkaraogllu@gmail.com?subject=[GitHub]%20Contact">
+  <a href="mailto:erdemkaraogllu@gmail.com?subject=[GitHub]%20Contact">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email Badge" />
   </a>
   
