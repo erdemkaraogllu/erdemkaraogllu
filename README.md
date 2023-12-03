@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-    <p align="auto">
+    <p align="right">
         Hakkımda Yazısı Gelicek
     </p>
     <p align="left">
