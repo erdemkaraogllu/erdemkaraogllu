@@ -1,5 +1,7 @@
 ![Banner](https://media.licdn.com/dms/image/D4D16AQH_G0YzKFS6eg/profile-displaybackgroundimage-shrink_350_1400/0/1692037192822?e=1707350400&v=beta&t=WWdXo7JwQEjXLFKEnWh2N_zt96bnU4_l0mSoVS5Cgcg)
 ### Hi there 👋
+[GitHub]([github_profil_linkiniz](https://github.com/erdemkaraogllu))
+[LinkedIn]([linkedin_profil_linkiniz](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/erdemkaraogllu) 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=erdemkaraogllu&show_icons=true&theme=radical)
