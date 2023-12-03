@@ -42,14 +42,16 @@
     </td>
     <td width="50%" valign="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Language+and+Tools;Dil+ve+Ara%C3%A7lar" alt="Typing SVG" /></a>
-     <ul>    
-        <li>💻 I use daily: <strong>.js</strong>, <strong>.java</strong>, <strong>.py</strong>,  <strong>.sql</strong></li>
-        <li>📖 I am currently reading <strong>Designing Data Intensive Application</strong> by Martin Kleppmann</li>
-        <li>💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley &amp; startups</li>
-        <li>👯 We can connect to play some games of Chess ♟</li>
-        <li>⚡ Fun fact: Je connais un peu le français</li>
-        <li>🧑‍💻 Tech I work on :</li>
-      </ul>
+    <ul>
+    <li>💻 I'm skilled in: <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong></li>
+    <li>🌐 Learning and using frameworks: <strong>Bootstrap</strong>, <strong>Tailwind CSS</strong></li>
+    <li>🖥️ Coding in Javascript and continuously learning more</li>
+    <li>🔧 Capable of developing simple desktop applications with <strong>C#</strong></li>
+    <li>🗄️ Working with databases: <strong>MySQL</strong>, <strong>PostgreSQL</strong></li>
+    <li>🌍 On the back end, I use <strong>PHP</strong></li>
+    <li>⚛️ Actively learning <strong>React</strong></li> 
+</ul>
+
     </td>
   </tr>
 </table>
