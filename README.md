@@ -32,8 +32,8 @@
 </p>
 </p>
 
-<p align="center">
-    <p align="left">
+<p align="auto">
+    <p align="right">
         Hakkımda Yazısı Gelicek
     </p>
     <p align="left">
