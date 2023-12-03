@@ -19,8 +19,13 @@
   <a href="https://www.linkedin.com/in/erdem-karao%C4%9Flu-b6843124a/">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-
-
 </p>
+
+<p align="center">
+  <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" target="_blank" rel="noopener noreferrer">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Açıklama veya Açıklama Yok" style="max-width: 100%;">
+  </a>
+</p>
+
 
 
