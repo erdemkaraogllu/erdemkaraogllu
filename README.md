@@ -27,14 +27,7 @@
   <tr style="border-top: 2px solid #ccc; border-bottom: 2px solid #ccc;" width="50%" valign="center">
     <td width="50%" valign="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=About+me;Hakk%C4%B1mda" alt="Typing SVG" /></a>
-      <ul>    
-        <li>💻 I use daily: <strong>.js</strong>, <strong>.java</strong>, <strong>.py</strong>,  <strong>.sql</strong></li>
-        <li>📖 I am currently reading <strong>Designing Data Intensive Application</strong> by Martin Kleppmann</li>
-        <li>💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley &amp; startups</li>
-        <li>👯 We can connect to play some games of Chess ♟</li>
-        <li>⚡ Fun fact: Je connais un peu le français</li>
-        <li>🧑‍💻 Tech I work on :</li>
-      </ul>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1000&pause=500&color=ADADAD&center=do%C4%9Fru&vCenter=do%C4%9Fru&multiline=true&repeat=do%C4%9Fru&random=YANLI%C5%9E&width=435&height=250&lines=Hello!+I+am+Erdem%2C+a+novice+Frontend;and+React+Developer+chasing+new;beginnings.+I+am+focused+on+learning;and+improving+myself+in+the+world+of;software.+I+love+blending+technology;with+art+and+strive+to+create;user-centric+interfaces.+I+am+open+;to+innovations%2C+inclined+to;teamwork%2C+and+continue+to+grow;every+day.;Sphinx+of+black+quartz%2C+judge+my+vow" alt="Typing SVG" /></a>
     </td>
     <td width="50%" valign="top">     
         <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
