@@ -5,6 +5,9 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=718355&random=false&width=435&lines=Hello%2C+I+am+Erdem+Karao%C4%9Flu.;Merhaba%2C+Ben+Erdem+Karao%C4%9Flu." alt="Typing SVG" />
     </a>
 </p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+</p>
 
 <p align="center">
   <!-- E-Mail Bağlantısı -->
