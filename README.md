@@ -6,29 +6,22 @@
 
 <p align="center">
   <!-- E-Mail Bağlantısı -->
-  <a href="mailto:your-email@example.com?subject=[GitHub]%20Contact">
+  <a href="erdemkaraogllu@gmail.com?subject=[GitHub]%20Contact">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email Badge" />
   </a>
   
   <!-- Instagram Bağlantısı -->
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/erdemkaraogllu">
     <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 
-  <!-- Twitch Bağlantısı -->
-  <a href="https://twitch.tv/yourusername">
-    <img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge" />
-  </a>
 
   <!-- LinkedIn Bağlantısı -->
-  <a href="https://linkedin.com/in/yourlinkedinprofile">
+  <a href="[https://linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 
-  <!-- Twitter Bağlantısı -->
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-  </a>
+
 </p>
 
 
