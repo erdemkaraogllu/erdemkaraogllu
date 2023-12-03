@@ -1,5 +1,7 @@
 ![Banner](https://media.licdn.com/dms/image/D4D16AQH_G0YzKFS6eg/profile-displaybackgroundimage-shrink_350_1400/0/1692037192822?e=1707350400&v=beta&t=WWdXo7JwQEjXLFKEnWh2N_zt96bnU4_l0mSoVS5Cgcg)
 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&random=false&width=435&lines=About+me;Hakk%C4%B1mda)](https://git.io/typing-svg)
+
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=718355&random=false&width=435&lines=Hello%2C+I+am+Erdem+Karao%C4%9Flu.;Merhaba%2C+Ben+Erdem+Karao%C4%9Flu." alt="Typing SVG" />
@@ -26,7 +28,7 @@
 <table>
   <tr>
     <td width="50%" valign="center">
-        [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&random=false&width=435&lines=About+me;Hakk%C4%B1mda)](https://git.io/typing-svg)
+       
       <ul>    
         <li>💻 I use daily: <strong>.js</strong>, <strong>.java</strong>, <strong>.py</strong>,  <strong>.sql</strong></li>
         <li>📖 I am currently reading <strong>Designing Data Intensive Application</strong> by Martin Kleppmann</li>
