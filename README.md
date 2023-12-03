@@ -1,7 +1,5 @@
 ### Hi there 👋
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/erdemkaraogllu) 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]
-
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=erdemkaraogllu&show_icons=true&theme=radical)
 <!--
 **erdemkaraogllu/erdemkaraogllu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
