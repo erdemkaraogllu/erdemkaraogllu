@@ -23,7 +23,7 @@
 
 <p align="center">
 <p align="left">
-   <ul dir="auto">    
+   <ul>    
 <li>💻 I use daily: <strong>.js</strong>, <strong>.java</strong>, <strong>.py</strong>,  <strong>.sql</strong></li>
 <li>📖 I am currently reading <strong>Designing Data Intensive Application</strong> by Martin Kleppmann</li>
 <li>💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley &amp; startups</li>
