@@ -23,8 +23,8 @@
   </a>
 </p>
 
-<table>
-  <tr>
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border-top: 2px solid #ccc; border-bottom: 2px solid #ccc;" width="50%" valign="center">
     <td width="50%" valign="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=About+me;Hakk%C4%B1mda" alt="Typing SVG" /></a>
       <ul>    
