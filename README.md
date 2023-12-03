@@ -29,7 +29,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=About+me;Hakk%C4%B1mda" alt="Typing SVG" /></a>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1000&pause=500&color=ADADAD&center=true&vCenter=true&multiline=true&random=false&width=435&height=250&lines=Hello!+I+am+Erdem%2C+a+novice+Frontend;and+React+Developer+chasing+new;beginnings.+I+am+focused+on+learning;and+improving+myself+in+the+world+of;software.+I+love+blending+technology;with+art+and+strive+to+create;user-centric+interfaces.+I+am+open+;to+innovations%2C+inclined+to;teamwork%2C+and+continue+to+grow;every+day." alt="Typing SVG" /></a>
     </td>
-    <td width="50%" valign="top">     
+    <td width="50%" valign="center" align="center" >     
         <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
     </td>
   </tr>
@@ -40,7 +40,7 @@
     <td width="50%" valign="center" align="center">
       <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes World of Mayhem GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
     </td>
-    <td width="50%" valign="center" align="center">
+    <td width="50%" valign="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Language+and+Tools;Dil+ve+Ara%C3%A7lar" alt="Typing SVG" /></a>
     <ul>
     <li>💻 I'm skilled in: <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong></li>
