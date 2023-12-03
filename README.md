@@ -51,7 +51,6 @@
     <li>🌍 On the back end, I use <strong>PHP</strong></li>
     <li>⚛️ Actively learning <strong>React</strong></li> 
 </ul>
-
     </td>
   </tr>
 </table>
