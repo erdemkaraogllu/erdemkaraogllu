@@ -21,6 +21,16 @@
   <a href="https://www.linkedin.com/in/erdem-karao%C4%9Flu-b6843124a/">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+
+     <!-- Behance Bağlantısı -->
+  <a href="https://www.behance.net/erdemkaraolu">
+    <img src="https://img.shields.io/badge/behance-0057ff.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge" />
+  </a>
+  
+    <!-- Github Bağlantısı -->
+  <a href="https://github.com/erdemkaraogllu">
+   <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white" alt="GitHub Badge" />
+  </a>
 </p>
 
 <table style="width:100%; border-collapse: collapse;">
