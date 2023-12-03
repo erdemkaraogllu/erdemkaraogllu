@@ -1,4 +1,4 @@
-![Banner](https://www.linkedin.com/in/erdem-karao%C4%9Flu-b6843124a/overlay/background-image/)
+![Banner](https://media.licdn.com/dms/image/D4D16AQH_G0YzKFS6eg/profile-displaybackgroundimage-shrink_350_1400/0/1692037192822?e=1707350400&v=beta&t=WWdXo7JwQEjXLFKEnWh2N_zt96bnU4_l0mSoVS5Cgcg)
 ### Hi there 👋
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/erdemkaraogllu) 
 
