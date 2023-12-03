@@ -34,7 +34,7 @@
 </p>
 <p align="right">
   <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Açıklama veya Açıklama Yok" style="max-width: 100%; height: 200px ">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Açıklama veya Açıklama Yok" style="max-width: 100%; height: 200px; border-radius: 25px ">
   </a>
 </p>
 </p>
